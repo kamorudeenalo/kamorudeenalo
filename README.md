@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kamorudeenalo
 - 👀 I’m interested in Web/App Development.
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on sharing information.
 - 📫 Reach me on whatsapp via 08146623155
 
 <!---
